@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
         Map<Integer,Integer> map=new HashMap<>();
